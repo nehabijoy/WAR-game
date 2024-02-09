@@ -1,6 +1,6 @@
 This simple card game was created using Swift code on Xcode. Using a random generator, went through Images labeled numerically, and called upon them.
 
-Learned concepts such as 
+Learned concepts such as:
 - ZStack, VStack, HStack
 - modifiers, views
 - iOS and device simulators
